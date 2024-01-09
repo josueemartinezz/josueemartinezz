@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola, I'm Josue 👋
+
+
+I'm a third-year Computer Science student at UC San Diego, also pursuing a Philosophy minor. 
 
 <!--
 **josueemartinezz/josueemartinezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
