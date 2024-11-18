@@ -1,22 +1,22 @@
 ### Hola, I'm Josue 👋
 
 # 💫 About Me:
-  I'm a fourth-year Computer Science student at UC San Diego. Currently interning at Ectron Corp as a software engineer and this quarter I'll be working on an NSF Research project - DERConnect as a Software
+  I'm a fourth-year Computer Science student at UC San Diego.
 
 ### 😄 Pronouns: 
   He/him/his
 
 ### 🔭 I'm currently working on: 
-  Optimizing a cloud infrastructure that will optimize costs and efficiency using Microsoft's Azure Services.
+  DERConnect - working on API communication with Brick - A Uniform Metadata Schema for Buildings.
 
 ### 👯 I'm looking to collaborate on:
-  A web application to streamline an Alumni-to-Undergraduate Mentorship pairing system for the program I'm leading at UC San Diego.
+  A web application to streamline the mentorship pairing system for a program I'm leading at UC San Diego.
 
 ### 🌱 I'm currently learning:
-  Firebase capabilities and Docker clusters.
+  Amazon Web Services
 
 ### ⚡️ Fun Fact: 
-  I'm currently training for a marathon!
+  I've been sleeping in a trailer for 2 years.
 
 
 ## 🌐 Socials:
